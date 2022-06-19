@@ -1,4 +1,4 @@
-//  Copyright 2022 jewfishc
+//  Copyright 2022 <Anton Tuzov>
 #include "s21_cat.h"
 
 int main(int argc, const char* argv[]) {

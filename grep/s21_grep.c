@@ -1,3 +1,4 @@
+//  Copyright 2022 <Anton Tuzov>
 #include "s21_grep.h"
 
 int main(int argc, char *argv[]) {

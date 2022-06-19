@@ -1,4 +1,4 @@
-//  Copyright 2022 jewfishc
+//  Copyright 2022 <Anton Tuzov>
 #ifndef SRC_CAT_S21_CAT_H_
 #define SRC_CAT_S21_CAT_H_
 

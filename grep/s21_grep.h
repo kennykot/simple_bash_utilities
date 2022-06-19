@@ -1,3 +1,4 @@
+//  Copyright 2022 <Anton Tuzov>
 #ifndef SRC_GREP_S21_GREP_H_
 #define SRC_GREP_S21_GREP_H_
 
