@@ -17,18 +17,12 @@ int main(int argc, const char* argv[]) {
 }
 
 void get_flags(int argc, const char* argv[], flags* f) {
-    char b_flag[20];
-    char e_flag[20];
-    char n_flag[20];
-    char s_flag[20];
-    char t_flag[20];
-    char v_flag[20];
-    memset(b_flag, 0, 20);
-    memset(e_flag, 0, 20);
-    memset(n_flag, 0, 20);
-    memset(s_flag, 0, 20);
-    memset(t_flag, 0, 20);
-    memset(v_flag, 0, 20);
+    char b_flag[20] = {0};
+    char e_flag[20] = {0};
+    char n_flag[20] = {0};
+    char s_flag[20] = {0};
+    char t_flag[20] = {0};
+    char v_flag[20] = {0};
     #if defined(__GNU__)
         memcpy(b_flag, "--number-nonblank", 17);
         memcpy(e_flag, "-E", 2);
