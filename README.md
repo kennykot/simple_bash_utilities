@@ -21,6 +21,7 @@ Cat options:
 | 4 | -s (GNU: --squeeze-blank) | squeeze multiple adjacent blank lines |
 | 5 | -t implies -v (GNU: -T the same, but without implying -v) | but also display tabs as ^I  |
 
+
 Grep usage:
 `grep [options] template [file_name]`
 
