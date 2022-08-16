@@ -8,6 +8,11 @@
 
 ## Description of the implemented utilities
 
+Cat usage: 
+`cat [OPTION] [FILE]...`
+
+Cat options:
+
 | No. | Options | Description |
 | ------ | ------ | ------ |
 | 1 | -b (GNU: --number-nonblank) | numbers only non-empty lines |
@@ -15,6 +20,11 @@
 | 3 | -n (GNU: --number) | number all output lines |
 | 4 | -s (GNU: --squeeze-blank) | squeeze multiple adjacent blank lines |
 | 5 | -t implies -v (GNU: -T the same, but without implying -v) | but also display tabs as ^I  |
+
+Grep usage:
+`grep [options] template [file_name]`
+
+Grep options:
 
 | No. | Options | Description |
 | ------ | ------ | ------ |
